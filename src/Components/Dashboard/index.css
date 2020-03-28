@@ -1,0 +1,69 @@
+.dashboard {
+  align-items: flex-start;
+  display: flex;
+  height: auto;
+  justify-content: center;
+  width: 100%;
+  flex-direction: row;
+  margin: 100px 20px;
+}
+
+.category {
+  width: 25%;
+  height: auto;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 20px;
+  border-radius: 6px;
+  background-color: #fff;
+  margin-right: 20px;
+  max-width: 350px;
+}
+
+.addIcon {
+  width: 30px;
+  height: 30px;
+  box-shadow: 0 0 0 4px transparent;
+  transition: box-shadow 0.3s, -webkit-box-shadow 0.3s;
+  border-radius: 50%;
+}
+
+.addIcon:hover {
+  transition: box-shadow 0.3s, -webkit-box-shadow 0.3s;
+  box-shadow: 0 0 0 4px #b6dbee;
+}
+
+.addTileBtn {
+  background: #fff;
+  border: none;
+  float: right;
+  margin: 10px 3px 6px 0px;
+  outline: none;
+  cursor: pointer;
+}
+
+.crossIconBtn {
+  width: 12px;
+  height: 12px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+.categoryTitle {
+  color: #2095f3;
+  margin: 10px;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 550px) {
+  .dashboard {
+    flex-direction: column;
+  }
+  .category {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+  }
+}
