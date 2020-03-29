@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trello-board/static/css/main.28d741df.chunk.css",
+    "main.js": "/trello-board/static/js/main.adaf9cb2.chunk.js",
+    "main.js.map": "/trello-board/static/js/main.adaf9cb2.chunk.js.map",
+    "runtime-main.js": "/trello-board/static/js/runtime-main.3c2e791f.js",
+    "runtime-main.js.map": "/trello-board/static/js/runtime-main.3c2e791f.js.map",
+    "static/js/2.7ebc85b3.chunk.js": "/trello-board/static/js/2.7ebc85b3.chunk.js",
+    "static/js/2.7ebc85b3.chunk.js.map": "/trello-board/static/js/2.7ebc85b3.chunk.js.map",
+    "index.html": "/trello-board/index.html",
+    "precache-manifest.a769d7603ef7b33f0e3d95195efa3df3.js": "/trello-board/precache-manifest.a769d7603ef7b33f0e3d95195efa3df3.js",
+    "service-worker.js": "/trello-board/service-worker.js",
+    "static/css/main.28d741df.chunk.css.map": "/trello-board/static/css/main.28d741df.chunk.css.map",
+    "static/js/2.7ebc85b3.chunk.js.LICENSE.txt": "/trello-board/static/js/2.7ebc85b3.chunk.js.LICENSE.txt",
+    "static/media/cross-icon.png": "/trello-board/static/media/cross-icon.bf2628e4.png",
+    "static/media/plus.png": "/trello-board/static/media/plus.aba9de2d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c2e791f.js",
+    "static/js/2.7ebc85b3.chunk.js",
+    "static/css/main.28d741df.chunk.css",
+    "static/js/main.adaf9cb2.chunk.js"
+  ]
+}
