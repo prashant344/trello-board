@@ -20,7 +20,13 @@
   cursor: pointer;
   outline: none;
 }
-
+textarea {
+  -webkit-user-select: text;
+  -khtml-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
 .card:hover {
   cursor: pointer;
 }
