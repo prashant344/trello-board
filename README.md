@@ -1,6 +1,8 @@
 ## About
 This project is a small trello board app which allows user to create modify and delete a task. There are 3 categories under which user can create and modify a task. User can drag and drop the cards to move the card from one category to another. The page is responsive for different viewports.
 
+The website is hosted on this url: https://prashant344.github.io/trello-board/
+
 ## Available Scripts
 
 In the project directory, you can run:
